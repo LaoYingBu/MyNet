@@ -1,0 +1,4 @@
+Log file created at: 2017/09/28 20:36:51
+Running on machine: DNR4IPCOUPNVNIN
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F0928 20:36:51.563838  6064 insert_splits.cpp:29] Unknown bottom blob 'ImageData1' (layer 'Convolution1', bottom index 0)
